@@ -7,6 +7,8 @@
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Last Update](https://img.shields.io/badge/Updated-2025-green)
+![Last Commit](https://img.shields.io/github/last-commit/genmecaking-499/MIT-Learning-Path/main?style=for-the-badge)
+
 
 ---
 

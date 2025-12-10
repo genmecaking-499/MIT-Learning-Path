@@ -5,10 +5,13 @@
 
 ![Banner](https://img.shields.io/badge/Gen%20Meca-MIT%20Learning%20Path-blue?style=for-the-badge)
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![Last Update](https://img.shields.io/badge/Updated-2025-green)
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/Updated-2025-green?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/genmecaking-499/MIT-Learning-Path/main?style=for-the-badge)
 
+</div>
 
 ---
 

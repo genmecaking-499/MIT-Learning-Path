@@ -220,8 +220,8 @@ A transparent, academically credible, MIT-aligned portfolio strong enough for:
 
 <div align="center">
 
-## 🚀 **Keep Building. Keep Learning.  
-The future starts here.**
+## 🚀 Keep Building. Keep Learning.  
+The future starts here.
 
 </div>
 

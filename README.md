@@ -20,44 +20,66 @@ This repository serves as:
 
 # 📁 Directory Structure (Official)
 
-```md
+'''md
 MIT-Learning-Path/
 │
 ├── Mechanics/
-│   ├── 2.001-Mechanics-and-Materials-I/
-│   ├── 2.002-Mechanics-and-Materials-II/
-│   ├── 2.003-Dynamics-and-Control-I/
-│   ├── 2.004-Dynamics-and-Control-II/
-│   ├── 2.06-Fluid-Dynamics/
-│   ├── 2.007-Design-and-Manufacturing-I/
-│   └── 2.008-Design-and-Manufacturing-II/
+│   ├── Foundation/
+│   │   ├── 2.001 Mechanics and Materials I/
+│   │   ├── 2.002 Mechanics and Materials II/
+│   │   ├── 2.003 Dynamics and Control I/
+│   │   ├── 2.004 Dynamics and Control II/
+│   │   ├── 2.06 Fluid Dynamics/
+│   │   ├── 2.007 Design and Manufacturing I/
+│   │   └── 2.008 Design and Manufacturing II/
+│   │
+│   └── Advanced/
+│       ├── 2.75 Precision Machine Design/
+│       └── 2.092 Finite Element Analysis Of Solids And Fluids/
 │
 ├── Materials/
-│   ├── 3.20-Materials-At-Equilibrium/
-│   ├── 3.032-Mechanical-Behavior-Of-Materials/
-│   ├── 3.044-Materials-Processing/
-│   ├── 3.054-Cellular-Solids/
-│   ├── 3.064-Polymer-Engineering/
-│   └── 3.091SC-Intro-To-Solid-State-Chemistry/
+│   ├── Foundation/
+│   │   ├── 3.20 Materials At Equilibrium/
+│   │   ├── 3.032 Mechanical Behavior Of Materials/
+│   │   ├── 3.044 Materials Processing/
+│   │   ├── 3.054 Cellular Solids/
+│   │   ├── 3.064 Polymer Engineering/
+│   │   └── 3.091SC Intro To Solid State Chemistry/
+│   │
+│   └── Advanced/
+│       ├── 3.45 Magnetic Materials/
+│       ├── 3.052 Nanomechanics Of Materials And Structures/
+│       └── 3.60 Symmetry, Structure, And Tensor Properties Of Materials/
 │
 ├── Programming/
-│   ├── 6.0001-Introduction-To-CS-and-Python/
-│   ├── 6.0002-Computational-Thinking-and-Data-Science/
-│   ├── 6.006-Introduction-To-Algorithms/
-│   ├── 6.033-Computer-Systems-Engineering/
-│   ├── 6.034-Artificial-Intelligence/
-│   └── 6.172-Performance-Engineering-of-Software-Systems/
+│   ├── Foundation/
+│   │   ├── 6.0001 Introduction To CS and Python/
+│   │   ├── 6.0002 Computational Thinking and Data Science/
+│   │   ├── 6.006 Introduction To Algorithms/
+│   │   ├── 6.033 Computer Systems Engineering/
+│   │   ├── 6.034 Artificial Intelligence/
+│   │   └── 6.172 Performance Engineering Of Software Systems/
+│   │
+│   └── Advanced/
+│       ├── 6.004 Computation Structures/
+│       ├── 6.046J Design and Analysis Of Algorithms/
+│       └── 6.336J Introduction To Numerical Simulation/
 │
 └── Control/
-    ├── 2.04A-Systems-and-Controls/
-    ├── 2.12-Introduction-To-Robotics/
-    ├── 2.14-Feedback-Control-Systems-Design/
-    ├── 6.003-Signals-and-Systems/
-    ├── 6.302-Feedback-Systems/
-    ├── 6.832-Underactuated-Robotics/
-    └── 6.4210-Robotic-Manipulation/
-```
-
+    ├── Foundation/
+    │   ├── 2.04A Systems and Controls/
+    │   ├── 2.12 Introduction To Robotics/
+    │   ├── 2.14 Feedback Control Systems Design/
+    │   ├── 6.003 Signals and Systems/
+    │   ├── 6.302 Feedback Systems/
+    │   ├── 6.832 Underactuated Robotics/
+    │   └── 6.4210 Robotic Manipulation/
+    │
+    └── Advanced/
+        ├── 6.231 Dynamic Programming and Stochastic Control/
+        ├── 6.245 Multivariable Control Systems/
+        └── 6.441 Information Theory/
+'''
 ---
 
 # 🧭 Study Philosophy

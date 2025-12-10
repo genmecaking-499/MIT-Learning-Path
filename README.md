@@ -1,25 +1,27 @@
-# MIT Learning Path – Gen Meca
+⭐ MIT Learning Path – Gen Meca
 
 Welcome to my unified, structured, and professional MIT Learning Roadmap.
-This document is the **official README** for my self-study journey aligned with MIT OpenCourseWare — designed to present my capability, consistency, and multidisciplinary approach when applying to labs, research groups, or industry mentors.
+This document is the official README for my self-study journey aligned with MIT OpenCourseWare — built to demonstrate capability, consistency, and multidisciplinary engineering thinking when applying to labs, research groups, or industry mentors.
 
----
+🚀 Vision & Purpose
 
-# 🚀 Vision & Purpose
+My long-term goal is to develop a deep technical foundation in:
 
-I aim to build a deep foundation across **Mechanics**, **Materials**, **Programming**, and **Control Systems** — forming the backbone for my long-term robotics specialization.
+Mechanics — Materials — Programming — Control Systems
+
+These four pillars form the technical backbone for my specialization in robotics, especially humanoid robot arms, soft robotics, and intelligent mechanical systems.
 
 This repository serves as:
 
-* 📘 A complete learning portfolio following MIT standards
-* 🧠 Evidence of academic discipline & engineering thinking
-* 🛠 A place to store assignments, notes, and mini‑projects
-* 🎯 A professional profile for lab applications (HCMUT & international)
+📘 A complete, transparent MIT-aligned learning portfolio
 
----
+🧠 Evidence of academic discipline & engineering mindset
 
-# 📁 Directory Structure (Official)
+🛠 Storage of assignments, notes, and mini-projects
 
+🎯 A professional profile supporting lab and research applications
+
+📁 Directory Structure (Official)
 MIT-Learning-Path/
 │
 ├── Mechanics/
@@ -34,40 +36,40 @@ MIT-Learning-Path/
 │   │
 │   └── Advanced/
 │       ├── 2.75 Precision Machine Design/
-│       └── 2.092 Finite Element Analysis Of Solids And Fluids/
+│       └── 2.092 Finite Element Analysis of Solids and Fluids/
 │
 ├── Materials/
 │   ├── Foundation/
-│   │   ├── 3.20 Materials At Equilibrium/
-│   │   ├── 3.032 Mechanical Behavior Of Materials/
+│   │   ├── 3.20 Materials at Equilibrium/
+│   │   ├── 3.032 Mechanical Behavior of Materials/
 │   │   ├── 3.044 Materials Processing/
 │   │   ├── 3.054 Cellular Solids/
 │   │   ├── 3.064 Polymer Engineering/
-│   │   └── 3.091SC Intro To Solid State Chemistry/
+│   │   └── 3.091SC Introduction to Solid State Chemistry/
 │   │
 │   └── Advanced/
 │       ├── 3.45 Magnetic Materials/
-│       ├── 3.052 Nanomechanics Of Materials And Structures/
-│       └── 3.60 Symmetry, Structure, And Tensor Properties Of Materials/
+│       ├── 3.052 Nanomechanics of Materials and Structures/
+│       └── 3.60 Symmetry, Structure, and Tensor Properties of Materials/
 │
 ├── Programming/
 │   ├── Foundation/
-│   │   ├── 6.0001 Introduction To CS and Python/
+│   │   ├── 6.0001 Introduction to CS and Python/
 │   │   ├── 6.0002 Computational Thinking and Data Science/
-│   │   ├── 6.006 Introduction To Algorithms/
+│   │   ├── 6.006 Introduction to Algorithms/
 │   │   ├── 6.033 Computer Systems Engineering/
 │   │   ├── 6.034 Artificial Intelligence/
-│   │   └── 6.172 Performance Engineering Of Software Systems/
+│   │   └── 6.172 Performance Engineering of Software Systems/
 │   │
 │   └── Advanced/
 │       ├── 6.004 Computation Structures/
-│       ├── 6.046J Design and Analysis Of Algorithms/
-│       └── 6.336J Introduction To Numerical Simulation/
+│       ├── 6.046J Design and Analysis of Algorithms/
+│       └── 6.336J Introduction to Numerical Simulation/
 │
 └── Control/
     ├── Foundation/
     │   ├── 2.04A Systems and Controls/
-    │   ├── 2.12 Introduction To Robotics/
+    │   ├── 2.12 Introduction to Robotics/
     │   ├── 2.14 Feedback Control Systems Design/
     │   ├── 6.003 Signals and Systems/
     │   ├── 6.302 Feedback Systems/
@@ -79,101 +81,124 @@ MIT-Learning-Path/
         ├── 6.245 Multivariable Control Systems/
         └── 6.441 Information Theory/
 
----
+🧭 Study Philosophy
 
-# 🧭 Study Philosophy
+Learn with intention, document with clarity
 
-* **Learn with intention, document with clarity**
-* **Prioritize depth over speed**
-* **Every concept must connect to robotics**
-* **Assignments > videos** (proof of real capability)
-* **Version‑controlled learning** → better credibility
+Depth over speed — mastery instead of rushing
 
----
+Everything connects to robotics
 
-# 📝 Progress Tracker
+Assignments > Watching videos → real engineering capability
 
-### Mechanics
+Version-controlled learning = academic credibility
 
-* [ ] 2.001
-* [ ] 2.002
-* [ ] 2.003
-* [ ] 2.004
-* [ ] 2.06
-* [ ] 2.007
-* [ ] 2.008
+📊 Progress Tracker
+Mechanics
 
-### Materials
+ 2.001
 
-* [ ] 3.20
-* [ ] 3.032
-* [ ] 3.044
-* [ ] 3.054
-* [ ] 3.064
-* [ ] 3.091SC
+ 2.002
 
-### Programming
+ 2.003
 
-* [ ] 6.0001
-* [ ] 6.0002
-* [ ] 6.006
-* [ ] 6.033
-* [ ] 6.034
-* [ ] 6.172
+ 2.004
 
-### Control
+ 2.06
 
-* [ ] 2.04A
-* [ ] 2.12
-* [ ] 2.14
-* [ ] 6.003
-* [ ] 6.302
-* [ ] 6.832
-* [ ] 6.4210
+ 2.007
 
----
+ 2.008
 
-# 📂 How This Repo Works
+Materials
 
-Each course folder will contain:
+ 3.20
 
-* `Notes/` – summary of theory
-* `Assignments/` – problem sets + my solutions
-* `Projects/` – simulations, code, CAD, or reports
-* `Resources/` – references, diagrams, formulas
-* `README.md` per course – progress & insights
+ 3.032
 
-This organization mirrors MIT’s real course structure.
+ 3.044
 
----
+ 3.054
 
-# 🔧 Tools & Workflow
+ 3.064
 
-* **GitHub** → tracking and versioning
-* **VS Code** → note‑taking + coding
-* **Markdown** → documentation
-* **Python / MATLAB** → computations
-* **CAD tools** → Mechanics + Materials
-* **Control simulations** → Python, MATLAB, Simulink
+ 3.091SC
 
----
+Programming
 
-# 👤 Author – Gen Meca
+ 6.0001
+
+ 6.0002
+
+ 6.006
+
+ 6.033
+
+ 6.034
+
+ 6.172
+
+Control
+
+ 2.04A
+
+ 2.12
+
+ 2.14
+
+ 6.003
+
+ 6.302
+
+ 6.832
+
+ 6.4210
+
+📂 Folder Structure Inside Each Course
+
+Each course contains:
+
+Course-Name/
+│── Notes/            # Theory summaries
+│── Assignments/      # Problem sets + my solutions
+│── Projects/         # Mini-projects, simulations, CAD, robotics
+│── Resources/        # References, diagrams, formulas
+│── README.md         # Course overview + progress
+
+
+This mirrors MIT’s real academic structure.
+
+🔧 Tools & Workflow
+
+GitHub — version control & transparency
+
+VS Code — notes, code, and documentation
+
+Markdown — clean formatting
+
+Python / MATLAB — numerical & control computations
+
+CAD tools — mechanics & materials assignments
+
+Simulink / Control libraries — robotics & control
+
+👤 Author — Gen Meca
 
 PFIEV–INSA Mechatronics Engineering
-Focused on 6 long‑term technical domains:
-**Mechanics • Materials • CAD • Control • Programming • Soft Robotics**
+Focused on 6 long-term domains:
+Mechanics • Materials • CAD • Control • Programming • Soft Robotics
 
-This roadmap supports my major personal project framework built across **12 multidisciplinary domains** for robotics.
+This roadmap supports my major long-term project:
+A robotics framework built across 12 multidisciplinary technical domains.
 
----
+⭐ Final Goal
 
-# ⭐ Final Goal
+A complete, transparent, academically credible MIT-aligned learning portfolio — strong enough to support:
 
-A complete, transparent, and academically credible learning portfolio — strong enough to apply for:
+Lab applications (HCMUT & international)
 
-* University laboratories (HCMUT & international)
-* Research‑based internships
-* Robotics & engineering collaborations
+Research-based internships
 
----
+Mechanical/robotics engineering collaborations
+
+Long-term robotics specialization

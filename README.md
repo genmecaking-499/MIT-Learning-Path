@@ -109,46 +109,53 @@ MIT-Learning-Path/
         ├── 6.231-Dynamic-Programming-and-Stochastic-Control/
         ├── 6.245-Multivariable-Control-Systems/
         └── 6.441-Information-Theory/
+```
+## 📊 Progress Tracking
 
-# 📝 Progress Tracker
+### **Mechanics**
+- [ ] 2.001 Mechanics and Materials I  
+- [ ] 2.002 Mechanics and Materials II  
+- [ ] 2.003 Dynamics and Control I  
+- [ ] 2.004 Dynamics and Control II  
+- [ ] 2.06 Fluid Dynamics  
+- [ ] 2.007 Design and Manufacturing I  
+- [ ] 2.008 Design and Manufacturing II  
+- [ ] 2.75 Precision Machine Design  
+- [ ] 2.092 Finite Element Analysis  
 
-### Mechanics
+### **Materials**
+- [ ] 3.20 Materials at Equilibrium  
+- [ ] 3.032 Mechanical Behavior of Materials  
+- [ ] 3.044 Materials Processing  
+- [ ] 3.054 Cellular Solids  
+- [ ] 3.064 Polymer Engineering  
+- [ ] 3.091SC Intro to Solid State Chemistry  
+- [ ] 3.45 Magnetic Materials  
+- [ ] 3.052 Nanomechanics of Materials  
+- [ ] 3.60 Symmetry, Structure, and Tensor Properties  
 
-* [ ] 2.001
-* [ ] 2.002
-* [ ] 2.003
-* [ ] 2.004
-* [ ] 2.06
-* [ ] 2.007
-* [ ] 2.008
+### **Programming**
+- [ ] 6.0001 Intro to CS and Python  
+- [ ] 6.0002 Computational Thinking  
+- [ ] 6.006 Algorithms  
+- [ ] 6.033 Systems Engineering  
+- [ ] 6.034 Artificial Intelligence  
+- [ ] 6.172 Performance Engineering  
+- [ ] 6.004 Computation Structures  
+- [ ] 6.046J Design & Analysis of Algorithms  
+- [ ] 6.336J Numerical Simulation  
 
-### Materials
-
-* [ ] 3.20
-* [ ] 3.032
-* [ ] 3.044
-* [ ] 3.054
-* [ ] 3.064
-* [ ] 3.091SC
-
-### Programming
-
-* [ ] 6.0001
-* [ ] 6.0002
-* [ ] 6.006
-* [ ] 6.033
-* [ ] 6.034
-* [ ] 6.172
-
-### Control
-
-* [ ] 2.04A
-* [ ] 2.12
-* [ ] 2.14
-* [ ] 6.003
-* [ ] 6.302
-* [ ] 6.832
-* [ ] 6.4210
+### **Control**
+- [ ] 2.04A Systems & Controls  
+- [ ] 2.12 Introduction to Robotics  
+- [ ] 2.14 Feedback Control  
+- [ ] 6.003 Signals & Systems  
+- [ ] 6.302 Feedback Systems  
+- [ ] 6.832 Underactuated Robotics  
+- [ ] 6.4210 Robotic Manipulation  
+- [ ] 6.231 Dynamic Programming  
+- [ ] 6.245 Multivariable Control  
+- [ ] 6.441 Information Theory  
 
 
 ---
@@ -217,3 +224,5 @@ A transparent, academically credible, MIT-aligned portfolio strong enough for:
 The future starts here.**
 
 </div>
+
+

@@ -161,14 +161,14 @@ MIT-Learning-Path/
 ---
 
 ## 📚 Course Folder Structure
-
+```bash
 📁 Course-Name
 ├── 📝 Notes
 ├── 📚 Assignments
 ├── 🧪 Projects
 ├── 🔗 Resources
 └── 📄 README.md
-
+```
 
 This structure mirrors real MIT OpenCourseWare academic repositories.
 

@@ -20,7 +20,6 @@ This repository serves as:
 
 # 📁 Directory Structure (Official)
 
-'''md
 MIT-Learning-Path/
 │
 ├── Mechanics/
@@ -79,7 +78,7 @@ MIT-Learning-Path/
         ├── 6.231 Dynamic Programming and Stochastic Control/
         ├── 6.245 Multivariable Control Systems/
         └── 6.441 Information Theory/
-'''
+
 ---
 
 # 🧭 Study Philosophy
